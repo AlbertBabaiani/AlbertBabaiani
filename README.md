@@ -13,6 +13,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ge.linkedin.com/in/albert-babaiani-7105242a6">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
 ### 💻 What I Do
 
 Currently, I work as a **Front-End Developer at Ministry of Finance of Georgia**, where I focus on building responsive, high-performance, and visually appealing web applications, including complex real-time systems. 
@@ -35,6 +41,12 @@ Before transitioning into software development, I worked as an **Overall Quality
 * **Grace Under Pressure:** A proven track record of managing tight deadlines, debugging critical issues, and maintaining high performance in fast-paced, high-stakes environments.
 * **Communication & Teamwork:** Honed through years of delivering lectures, providing constructive QA feedback, and collaborating seamlessly within large-scale development teams. I know how to talk to developers, designers, and stakeholders alike.
 
+---
+
+### 🏫 Education
+
+* **Bachelor of Science in Computer Science** — Caucasus University
+While I specialize in the modern DOM and front-end frameworks, my development approach is rooted in traditional computer science. This academic foundation in data structures, algorithms, and software architecture is what allows me to confidently build highly scalable, real-time web applications today.
 ---
 
 ### 🗣️ Languages Spoken
